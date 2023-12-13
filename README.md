@@ -1,4 +1,4 @@
-# Hello Informatics !
+# Hello Informatics ! 1237050023_Muhammad Rahardian Baihaqi
 
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
 Computational Thinking (Pemikiran Komputasional): Computational Thinking adalah suatu pendekatan pemecahan masalah dan penyelesaian tugas yang mengintegrasikan elemen-elemen yang terkait dengan konsep komputasional. Konsep ini tidak hanya berfokus pada aspek teknis seperti menulis kode, tetapi juga pada pemahaman konsep dasar komputasi dan penerapannya dalam menyelesaikan masalah.
