@@ -3,10 +3,12 @@
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
 
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
-1. Komputer Pribadi (Personal Computer - PC) : Merupakan jenis mesin komputasi yang dirancang untuk digunakan oleh satu individu. PC umumnya mencakup desktop dan laptop, dan berjalan di berbagai sistem operasi seperti Windows, macOS, dan Linux
-2. Server:
+1. Komputer Pribadi (Personal Computer - PC) : Merupakan jenis mesin komputasi yang dirancang untuk digunakan oleh satu individu. PC umumnya mencakup desktop dan laptop, dan berjalan di berbagai sistem operasi seperti Windows, macOS, dan Linux.
+2. Server : Server: Mesin komputasi yang dirancang untuk menyediakan layanan, sumber daya, atau aplikasi kepada pengguna atau komputer klien. Server dapat dikhususkan untuk tugas tertentu, seperti server web, server database, atau server file.
+3. Konsol Game: Mesin komputasi yang dirancang khusus untuk menjalankan permainan video. Konsol game, seperti PlayStation, Xbox, dan Nintendo Switch, memiliki arsitektur khusus untuk mendukung pengalaman permainan yang optimal.
+4. Komputer Tablet dan Smartphone: Mesin komputasi portabel yang menggabungkan elemen komputer dan layar sentuh. Tablet dan smartphone menjalankan berbagai aplikasi dan menyediakan akses internet secara portabel.
+5. Komputer Wearable: Mesin komputasi yang dikenakan atau digunakan pada tubuh pengguna. Ini termasuk perangkat seperti jam pintar, kacamata pintar, dan perangkat fitness yang dapat melakukan pemrosesan data dan memberikan informasi kepada pengguna.
 
-Mesin komputasi yang dirancang untuk menyediakan layanan, sumber daya, atau aplikasi kepada pengguna atau komputer klien. Server dapat dikhususkan untuk tugas tertentu, seperti server web, server database, atau server file
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
 
 ## Mencoba Console Sistem Operasi
@@ -26,6 +28,7 @@ Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-v
 Referensi [1](https://scratch.mit.edu/)
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
+https://github.com/rhrdianbaihaqi/BubleSort.Java.git
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 
