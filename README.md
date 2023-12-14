@@ -46,6 +46,8 @@ Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-visualizing-algorithms-4e4j)
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
+Untuk di penugasan Scratch Bahasa Indonesia saya membuat Gerak Lurus Beraturan menggunakan Scratch
+https://scratch.mit.edu/projects/940024968
 
 Referensi [1](https://scratch.mit.edu/)
 
@@ -136,6 +138,30 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
 
 ## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
+1. Jurnal Ilmiah (Journal):
+Definisi: Jurnal ilmiah adalah publikasi periodik yang berisi artikel-artikel hasil penelitian ilmiah. Jurnal ini merupakan sarana komunikasi dan penyebaran pengetahuan di antara komunitas ilmiah.
+Ciri-ciri:
+Artikel-artikel yang diterbitkan melalui proses peer review, yang melibatkan penilaian oleh para pakar sebidang.
+Terorganisir dalam volume dan nomor, dengan terbitan periodik seperti bulanan, kuartalan, atau tahunan.
+Dapat mencakup berbagai bidang ilmu.
+2. Konferensi Ilmiah (Conference):
+Definisi: Konferensi ilmiah adalah pertemuan akademis yang diadakan untuk membahas topik atau disiplin ilmu tertentu. Konferensi ini memberikan platform bagi para peneliti untuk mempresentasikan dan mendiskusikan hasil penelitian terbaru.
+Ciri-ciri:
+Terdiri dari sesi-sesi presentasi, diskusi panel, dan kegiatan-kegiatan lainnya.
+Artikel-artikel yang disajikan dapat diterbitkan dalam proceedings konferensi.
+Bertujuan untuk memfasilitasi pertukaran ide dan kolaborasi di antara peneliti.
+3. Artikel Ilmiah (Scientific Article):
+Definisi: Artikel ilmiah adalah tulisan yang berisi laporan atau analisis hasil penelitian. Artikel ini umumnya diterbitkan dalam jurnal ilmiah atau sebagai bagian dari proceedings konferensi.
+Ciri-ciri:
+Memiliki struktur standar seperti abstrak, pendahuluan, metode, hasil, pembahasan, dan daftar pustaka.
+Memuat temuan-temuan baru atau kontribusi signifikan terhadap pengetahuan di bidang tertentu.
+Disusun dengan ketentuan etika penulisan ilmiah.
+4. Grade Jurnal (Journal Grade):
+Definisi: "Grade jurnal" mengacu pada peringkat atau kategori jurnal ilmiah berdasarkan sejumlah kriteria tertentu. Ini dapat mencakup faktor dampak, reputasi, atau kualitas editorial.
+Ciri-ciri:
+Jurnal-jurnal diurutkan dalam kategori tertentu, seperti Q1 (quartile 1) hingga Q4, atau dalam kategori A, B, atau C.
+Pemeringkatan ini dapat digunakan sebagai panduan untuk menilai kualitas atau tingkat pengakuan suatu jurnal dalam komunitas ilmiah.
+Peringkat ini dapat dikeluarkan oleh lembaga-lembaga seperti Clarivate Analytics (faktor dampak), Scimago Journal Rank (SJR), atau lembaga penilai jurnal ilmiah lainnya.
 
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
 
