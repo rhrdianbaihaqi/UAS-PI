@@ -166,6 +166,11 @@ Peringkat ini dapat dikeluarkan oleh lembaga-lembaga seperti Clarivate Analytics
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
 
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
+1. Link Vidieo Pertama : https://youtu.be/Gyh_fxPmXKM?si=ISrh9sx8f48IdHnQ
+2. Link Vidieo Kedua   : https://youtu.be/7rSyCTLLPT8?si=4J28PzPmpXPajToP
+3. Link Vidieo Ketiga  : https://youtu.be/tpYdI1BsgzU?si=R_fkDlURtI_li6Ef dan https://youtu.be/qWop0s3lYL8?si=BsSQPPHHO-w616Qn
+
+Kesimpulan : Meskipun saya masih sebagai mahasiswa semester 1, menonton video tugas akhir Teknik Informatika memberikan tentang pengetahuan saya yang bermanfaat dan berharga. Meskipun saya belum terlibat secara langsung dalam penelitian atau proyek tingkat lanjut, menonton presentasi tugas akhir dapat menjadi inspirasi untuk perjalanan akademis saya. Hal ini juga memberikan pengetahuan saya atau gambaran mengenai potensi pengembangan proyek dan penelitian di masa mendatang. Selain itu, menyimak tugas akhir dapat membantu saya memahami tingkat keahlian dan ketrampilan yang dapat diharapkan di akhir studi. Dengan demikian, meskipun saya baru memasuki semester 1, menonton video tugas akhir dapat memotivasi dan membentuk pemahaman awal Anda terhadap dunia Teknik Informatika.
 
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 Bidang informatika memiliki berbagai profesi dengan spesialisasi yang berbeda-beda. ini adalah beberapa Profesi Terkait Informatika:
