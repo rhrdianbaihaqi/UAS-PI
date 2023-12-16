@@ -213,6 +213,7 @@ untuk minat Profesi saya di Informatika saya lebih suka untuk menjadi Pengembang
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
+Web Company Profile Github Page : https://rhrdianbaihaqi.github.io
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 
