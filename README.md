@@ -59,6 +59,8 @@ https://github.com/rhrdianbaihaqi/BubleSort.Java.git
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
+1. Demonstrasi Pembuatan Aplikasi Mobile "NukuKopi" : https://youtu.be/MEN2hpYgGLE
+2. Demonstrasi Pembuatan Web "Company Profile"      : https://youtu.be/MEN2hpYgGLE
 
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 
