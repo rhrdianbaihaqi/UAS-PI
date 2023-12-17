@@ -48,7 +48,8 @@ Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-v
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 Untuk di penugasan Scratch Bahasa Indonesia saya membuat beberapa karya :
 1. Gerak Lurus Beraturan menggunakan Scratch : https://scratch.mit.edu/projects/940024968
-2. Game Sederhana Cat Jump Game              : https://scratch.mit.edu/projects/941313179 
+2. Game Sederhana Cat Jump Game              : https://scratch.mit.edu/projects/941313179
+Link Vidieo Yt : https://youtu.be/K04weNoMk-Y
 
 Referensi [1](https://scratch.mit.edu/)
 
@@ -225,7 +226,13 @@ Web Company Profile Github Page : https://rhrdianbaihaqi.github.io
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 Berikut adalah beberapa Workshop yang pernah saya ikuti, terutama untuk di bidang IT 
-![Contoh](https://fastly.picsum.photos/id/318/536/354.jpg?hmac=Ixy-wle80nudIR_cmnF1iY2y6rMUH7_9sk-BP1fTpM8)
+![WORKSHOP CREATE APP WITH KOTLIN](https://github.com/rhrdianbaihaqi/UAS-PI/assets/144593465/a790cd8e-76e6-48b1-b347-db8676f0e6a7)
+![WORKSHOP FUTURE OF AI](https://github.com/rhrdianbaihaqi/UAS-PI/assets/144593465/f21da808-016f-4b24-8e41-9aaa9ceb7d00)
+![WORKSHOP ROADMAP FRONTEND DEV](https://github.com/rhrdianbaihaqi/UAS-PI/assets/144593465/b3c424b3-16eb-431b-9e23-0ec6a313bc93)
+![WORKSHOP SHORTCUT ANAK IT](https://github.com/rhrdianbaihaqi/UAS-PI/assets/144593465/a8661996-9aa2-4530-a9e5-c48ac4bba7ba)
+![WORKSHOP WEBSITE PORTO PEMULA](https://github.com/rhrdianbaihaqi/UAS-PI/assets/144593465/ed014c1f-4308-49c4-8a96-69a1aeae14cc)
+
+
 
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
 
