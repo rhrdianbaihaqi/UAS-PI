@@ -124,6 +124,11 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
 
 ## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
+1. The Disney Pixar poster that says "Haqi" shows a handsome boy wearing a black shirt and hat and sitting in a cafe
+![AI HAQI](https://github.com/rhrdianbaihaqi/UAS-PI/assets/144593465/b59d7aba-6134-4817-835e-2f6a31843b02)
+
+2. The Disney Pixar poster that says "Haqi" shows a handsome boy wearing batik and sitting in a mosque reading the quran
+![HAQI AI 2](https://github.com/rhrdianbaihaqi/UAS-PI/assets/144593465/d03ab61d-70b0-4765-b25e-28197f10eb21)
 
 ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 
