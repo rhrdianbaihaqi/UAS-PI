@@ -224,6 +224,8 @@ untuk minat Profesi saya di Informatika saya lebih suka untuk menjadi Pengembang
 Web Company Profile Github Page : https://rhrdianbaihaqi.github.io
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
+Berikut adalah beberapa Workshop yang pernah saya ikuti, terutama untuk di bidang IT 
+![Contoh](https://fastly.picsum.photos/id/318/536/354.jpg?hmac=Ixy-wle80nudIR_cmnF1iY2y6rMUH7_9sk-BP1fTpM8)
 
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
 
