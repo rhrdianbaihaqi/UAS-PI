@@ -46,8 +46,9 @@ Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-visualizing-algorithms-4e4j)
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
-Untuk di penugasan Scratch Bahasa Indonesia saya membuat Gerak Lurus Beraturan menggunakan Scratch
-https://scratch.mit.edu/projects/940024968
+Untuk di penugasan Scratch Bahasa Indonesia saya membuat beberapa karya :
+1. Gerak Lurus Beraturan menggunakan Scratch : https://scratch.mit.edu/projects/940024968
+2. Game Sederhana Cat Jump Game              : https://scratch.mit.edu/projects/941313179 
 
 Referensi [1](https://scratch.mit.edu/)
 
@@ -86,7 +87,7 @@ Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.ht
 Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_domain) [2](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)
 
 ## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
-1. Link github Halaman Web : https://github.com/rhrdianbaihaqi/rhrdianbaihaqi.github.io.git
+1. Link github Halaman Web       : https://github.com/rhrdianbaihaqi/rhrdianbaihaqi.github.io.git
 2. Link untuk akses Rumah Impian : https://rhrdianbaihaqi.github.io/
 
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
