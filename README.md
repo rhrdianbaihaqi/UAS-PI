@@ -63,7 +63,7 @@ Link Vidieo YT Eksplorasi dan Demonstrasi : https://youtu.be/zK518X2hQY0
 
 ## 11. Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 1. Demonstrasi Pembuatan Aplikasi Mobile "NukuKopi" : https://youtu.be/MEN2hpYgGLE
-2. Demonstrasi Pembuatan Web "Company Profile"      : https://youtu.be/MEN2hpYgGLE
+2. Demonstrasi Pembuatan Web "Company Profile"      : https://youtu.be/KSNk7KErSE4
 
 ## 12. Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 
