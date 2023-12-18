@@ -59,6 +59,7 @@ https://github.com/rhrdianbaihaqi/BubleSort.Java.git
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
+SUDAH
 
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 1. Demonstrasi Pembuatan Aplikasi Mobile "NukuKopi" : https://youtu.be/MEN2hpYgGLE
@@ -99,7 +100,6 @@ Referensi []
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 
-
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
 
 ## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
@@ -112,6 +112,8 @@ Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram,
 Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsoft Azure](https://azure.microsoft.com) [Google Cloud Platform](https://cloud.google.com) 
 
 ## Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
+Wordpress ini saya membuat situs yang bernama "Menggunakan Metode Asosiasi untuk Menghafal Al-Quran dengan Kreativitas"
+https://rahardianbaihaqi03.wordpress.com/2023/12/18/menggunakan-metode-asosiasi-untuk-menghafal-al-quran-dengan-kreativitas/
 
 ## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
 
