@@ -139,6 +139,7 @@ https://rahardianbaihaqi03.wordpress.com/2023/12/18/menggunakan-metode-asosiasi-
 ## 34. Mencoba Data Visualization Dengan Code [v] ⭐⭐
 
 ## 35. Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
+Vidieo link YT Eksplorasi HuggingFace dan Membuat ilusi teks dengan HuggingFace : https://youtu.be/vtTXqk_ebbk
 
 ## 36. Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
 
@@ -223,6 +224,9 @@ untuk minat Profesi saya di Informatika saya lebih suka untuk menjadi Pengembang
 ## 47. Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
 
 ## 48. Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
+Untuk Topik yang saya minati adalah sebagai :
+1. Frontend Developer : [Road Map frontend.pdf](https://github.com/rhrdianbaihaqi/UAS-PI/files/13704495/Road.Map.frontend.pdf)
+2. Android Developer  : [Road Map android Developer.pdf](https://github.com/rhrdianbaihaqi/UAS-PI/files/13704535/Road.Map.android.Developer.pdf)
 
 ## 49. Eksplorasi Top Github Project yang Diminati ⭐⭐ 
 
@@ -238,8 +242,6 @@ Berikut adalah beberapa Workshop yang pernah saya ikuti, terutama untuk di bidan
 ![WORKSHOP ROADMAP FRONTEND DEV](https://github.com/rhrdianbaihaqi/UAS-PI/assets/144593465/b3c424b3-16eb-431b-9e23-0ec6a313bc93)
 ![WORKSHOP SHORTCUT ANAK IT](https://github.com/rhrdianbaihaqi/UAS-PI/assets/144593465/a8661996-9aa2-4530-a9e5-c48ac4bba7ba)
 ![WORKSHOP WEBSITE PORTO PEMULA](https://github.com/rhrdianbaihaqi/UAS-PI/assets/144593465/ed014c1f-4308-49c4-8a96-69a1aeae14cc)
-
-
 
 ## 53. Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
 
