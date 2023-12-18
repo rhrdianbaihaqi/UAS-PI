@@ -1,6 +1,6 @@
 # Hello Informatics ! 1237050023_Muhammad Rahardian Baihaqi
 
-## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
+## 1. Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
 Computational Thinking (Pemikiran Komputasional): Computational Thinking adalah suatu pendekatan pemecahan masalah dan penyelesaian tugas yang mengintegrasikan elemen-elemen yang terkait dengan konsep komputasional. Konsep ini tidak hanya berfokus pada aspek teknis seperti menulis kode, tetapi juga pada pemahaman konsep dasar komputasi dan penerapannya dalam menyelesaikan masalah.
 
 Elemen-Elemen Utama Computational Thinking:
@@ -23,29 +23,29 @@ Menginternalisasi Computational Thinking:
 4. Penggunaan dalam Pengambilan Keputusan: Menerapkan pemikiran komputasional dalam pengambilan keputusan, baik dalam menentukan solusi terbaik atau merancang model untuk mencapai tujuan.
 5. Kreativitas dan Inovasi: Menggunakan pemikiran komputasional untuk merangsang kreativitas dan inovasi dalam pendekatan terhadap masalah.
 
-## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
+## 2. Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
 1. Komputer Pribadi (Personal Computer - PC) : Merupakan jenis mesin komputasi yang dirancang untuk digunakan oleh satu individu. PC umumnya mencakup desktop dan laptop, dan berjalan di berbagai sistem operasi seperti Windows, macOS, dan Linux.
 2. Server : Server: Mesin komputasi yang dirancang untuk menyediakan layanan, sumber daya, atau aplikasi kepada pengguna atau komputer klien. Server dapat dikhususkan untuk tugas tertentu, seperti server web, server database, atau server file.
 3. Konsol Game: Mesin komputasi yang dirancang khusus untuk menjalankan permainan video. Konsol game, seperti PlayStation, Xbox, dan Nintendo Switch, memiliki arsitektur khusus untuk mendukung pengalaman permainan yang optimal.
 4. Komputer Tablet dan Smartphone: Mesin komputasi portabel yang menggabungkan elemen komputer dan layar sentuh. Tablet dan smartphone menjalankan berbagai aplikasi dan menyediakan akses internet secara portabel.
 5. Komputer Wearable: Mesin komputasi yang dikenakan atau digunakan pada tubuh pengguna. Ini termasuk perangkat seperti jam pintar, kacamata pintar, dan perangkat fitness yang dapat melakukan pemrosesan data dan memberikan informasi kepada pengguna.
 
-## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
+## 3. Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
 https://github.com/rhrdianbaihaqi/UAS-PI/blob/6ba35a397213cf21ea1b413945b4ef59f55e7af0/Muhammad_Rahardian_Baihaqi_Google_Colab.ipynb
 
-## Mencoba Console Sistem Operasi
+## 4. Mencoba Console Sistem Operasi
 
 ### Windows CMD [v] ⭐⭐⭐⭐
 
 Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 
-### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
+### 5. Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 
-## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
+## 6. Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 
 Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-visualizing-algorithms-4e4j)
 
-## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
+## 7. Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 Untuk di penugasan Scratch Bahasa Indonesia saya membuat beberapa karya :
 1. Gerak Lurus Beraturan menggunakan Scratch : https://scratch.mit.edu/projects/940024968
 2. Game Sederhana Cat Jump Game              : https://scratch.mit.edu/projects/941313179
@@ -53,102 +53,102 @@ Link Vidieo Yt : https://youtu.be/K04weNoMk-Y
 
 Referensi [1](https://scratch.mit.edu/)
 
-## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
+## 8. Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 https://github.com/rhrdianbaihaqi/BubleSort.Java.git
 
-## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
+## 9. Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 
-## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
-SUDAH
+## 10. Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
+Link Vidieo YT Eksplorasi dan Demonstrasi : https://youtu.be/zK518X2hQY0
 
-## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
+## 11. Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 1. Demonstrasi Pembuatan Aplikasi Mobile "NukuKopi" : https://youtu.be/MEN2hpYgGLE
 2. Demonstrasi Pembuatan Web "Company Profile"      : https://youtu.be/MEN2hpYgGLE
 
-## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
+## 12. Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 
 Referensi installer [PostgreSQL](https://www.postgresql.org/download/windows/)
 Referensi tambahan [1](https://db-engines.com/en/ranking)
 
-## Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
+## 13. Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
 
 Referensi installer [Dbeaver](https://dbeaver.io/download/)
 Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
 
-## Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
+## 14. Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
 - Dokumen HyperText Markup Language (HTML) ada untuk memudahkan pertukaran informasi berbasis Hypertext.
 - Web Browser seperti Firefox, Chrome, Opera, ada untuk membuka dan mempresentasikan dokumen HTML
 - Dokumen HTML ini bisa bersumber dari web server yang kita ingin datanya (Tokopedia, Wikipedia, Detik.com, dsb.) atau bisa juga dukumen HTML yang kita buat sendiri
 
-## Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
+## 15. Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
 
 Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.html)
 
-## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
+## 16. Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
 
 Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_domain) [2](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)
 
-## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
+## 17. Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
 1. Link github Halaman Web       : https://github.com/rhrdianbaihaqi/rhrdianbaihaqi.github.io.git
 2. Link untuk akses Rumah Impian : https://rhrdianbaihaqi.github.io/
 
-## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
+## 18. Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 
 Referensi []
 
-## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
+## 19. Mencoba Pembuatan File JSON [v] ⭐⭐⭐
 
-## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
+## 20. Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 
-## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
+## 21. Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
 
-## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
+## 22. Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
 
-## Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
+## 23. Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
 
-## Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
+## 24. Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
 Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram, Telkom memanfaatkan Cloud Service karena memudahkan untuk mulai pembangunan dan analisis menggunakan infrastruktur digital yang dapat berkembang secara dinamis dengan tarif yang sangat teliti.
 
 Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsoft Azure](https://azure.microsoft.com) [Google Cloud Platform](https://cloud.google.com) 
 
-## Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
+## 25. Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
 Wordpress ini saya membuat situs yang bernama "Menggunakan Metode Asosiasi untuk Menghafal Al-Quran dengan Kreativitas"
 https://rahardianbaihaqi03.wordpress.com/2023/12/18/menggunakan-metode-asosiasi-untuk-menghafal-al-quran-dengan-kreativitas/
 
-## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
+## 26. Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
 
-## Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
+## 27. Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
 
-## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
+## 28. Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
 
-## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
+## 29. Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
 
-## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
+## 30. Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
 
-## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
+## 31. Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
 1. The Disney Pixar poster that says "Haqi" shows a handsome boy wearing a black shirt and hat and sitting in a cafe
 ![AI HAQI](https://github.com/rhrdianbaihaqi/UAS-PI/assets/144593465/b59d7aba-6134-4817-835e-2f6a31843b02)
 
 2. The Disney Pixar poster that says "Haqi" shows a handsome boy wearing batik and sitting in a mosque reading the quran
 ![HAQI AI 2](https://github.com/rhrdianbaihaqi/UAS-PI/assets/144593465/d03ab61d-70b0-4765-b25e-28197f10eb21)
 
-## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
+## 32. Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 
-## Mencoba Data Visualization Dengan Tools [v] ⭐⭐
+## 33. Mencoba Data Visualization Dengan Tools [v] ⭐⭐
 
-## Mencoba Data Visualization Dengan Code [v] ⭐⭐
+## 34. Mencoba Data Visualization Dengan Code [v] ⭐⭐
 
-## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
+## 35. Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
 
-## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
+## 36. Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
 
-## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
+## 37. Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
 
-## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
+## 38. Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
 
-## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
+## 39. Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
 
-## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
+## 40. Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
 1. Jurnal Ilmiah (Journal):
 Definisi: Jurnal ilmiah adalah publikasi periodik yang berisi artikel-artikel hasil penelitian ilmiah. Jurnal ini merupakan sarana komunikasi dan penyebaran pengetahuan di antara komunitas ilmiah.
 Ciri-ciri:
@@ -174,16 +174,16 @@ Jurnal-jurnal diurutkan dalam kategori tertentu, seperti Q1 (quartile 1) hingga 
 Pemeringkatan ini dapat digunakan sebagai panduan untuk menilai kualitas atau tingkat pengakuan suatu jurnal dalam komunitas ilmiah.
 Peringkat ini dapat dikeluarkan oleh lembaga-lembaga seperti Clarivate Analytics (faktor dampak), Scimago Journal Rank (SJR), atau lembaga penilai jurnal ilmiah lainnya.
 
-## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
+## 41. Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
 
-## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
+## 42. Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 1. Link Vidieo Pertama : https://youtu.be/Gyh_fxPmXKM?si=ISrh9sx8f48IdHnQ
 2. Link Vidieo Kedua   : https://youtu.be/7rSyCTLLPT8?si=4J28PzPmpXPajToP
 3. Link Vidieo Ketiga  : https://youtu.be/tpYdI1BsgzU?si=R_fkDlURtI_li6Ef dan https://youtu.be/qWop0s3lYL8?si=BsSQPPHHO-w616Qn
 
 Kesimpulan : Meskipun saya masih sebagai mahasiswa semester 1, menonton video tugas akhir Teknik Informatika memberikan tentang pengetahuan saya yang bermanfaat dan berharga. Meskipun saya belum terlibat secara langsung dalam penelitian atau proyek tingkat lanjut, menonton presentasi tugas akhir dapat menjadi inspirasi untuk perjalanan akademis saya. Hal ini juga memberikan pengetahuan saya atau gambaran mengenai potensi pengembangan proyek dan penelitian di masa mendatang. Selain itu, menyimak tugas akhir dapat membantu saya memahami tingkat keahlian dan ketrampilan yang dapat diharapkan di akhir studi. Dengan demikian, meskipun saya baru memasuki semester 1, menonton video tugas akhir dapat memotivasi dan membentuk pemahaman awal Anda terhadap dunia Teknik Informatika.
 
-## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
+## 43. Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 Bidang informatika memiliki berbagai profesi dengan spesialisasi yang berbeda-beda. ini adalah beberapa Profesi Terkait Informatika:
 
 1. Analisis Sistem (Systems Analyst): Menilai kebutuhan teknologi informasi suatu organisasi dan merancang solusi sistem yang efisien.
@@ -214,24 +214,24 @@ Bidang informatika memiliki berbagai profesi dengan spesialisasi yang berbeda-be
 
 untuk minat Profesi saya di Informatika saya lebih suka untuk menjadi Pengembang Front end Developer, Mobile Developer, dan UI/UX karena menurut saya ini adalah profesi yang sesuai dengan minat dan bakat saya, serta jika saya di Profesi ini saya harus mahir dan mendalami tentang bidang Progamming, Hardware, Design karena ini termasuk syarat untuk menjadi ke 3 Profesi tersebut.
 
-## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
+## 44. Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 
-## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
+## 45. Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
 
-## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
+## 46. Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
 
-## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
+## 47. Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
 
-## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
+## 48. Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
 
-## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
+## 49. Eksplorasi Top Github Project yang Diminati ⭐⭐ 
 
-## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
+## 50. Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 
-## Membangun Profil Github Page ⭐⭐⭐⭐⭐
+## 51. Membangun Profil Github Page ⭐⭐⭐⭐⭐
 Web Company Profile Github Page : https://rhrdianbaihaqi.github.io
 
-## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
+## 52. Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 Berikut adalah beberapa Workshop yang pernah saya ikuti, terutama untuk di bidang IT 
 ![WORKSHOP CREATE APP WITH KOTLIN](https://github.com/rhrdianbaihaqi/UAS-PI/assets/144593465/a790cd8e-76e6-48b1-b347-db8676f0e6a7)
 ![WORKSHOP FUTURE OF AI](https://github.com/rhrdianbaihaqi/UAS-PI/assets/144593465/f21da808-016f-4b24-8e41-9aaa9ceb7d00)
@@ -241,7 +241,7 @@ Berikut adalah beberapa Workshop yang pernah saya ikuti, terutama untuk di bidan
 
 
 
-## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
+## 53. Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
 
 
 
