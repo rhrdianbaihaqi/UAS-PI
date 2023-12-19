@@ -46,10 +46,15 @@ https://github.com/rhrdianbaihaqi/UAS-PI/blob/6ba35a397213cf21ea1b413945b4ef59f5
 ![cmd](https://github.com/rhrdianbaihaqi/UAS-PI/assets/144593465/e6d9634b-cc40-4f54-804c-d4c8373cc623)
 
 ### 5. Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
+1. **Link hasil mencoba Linux terminal menggunakan Google Colab**
+https://colab.research.google.com/drive/1nImnCWdko4xg1khtO1xLjCYRJAe7N7Wn?usp=sharing
+2. **Tampilan Mencoba Linux Terminal menggunakan Google Colab**
+![LINUX TERMINAL](https://github.com/rhrdianbaihaqi/UAS-PI/assets/144593465/872ae9d8-90af-4b66-8925-008ae2949a7c)
 
 ## 6. Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
-
-Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-visualizing-algorithms-4e4j)
+1. Flowchart adalah representasi grafis dari algoritma atau proses yang menunjukkan langkah-langkah atau tahapan secara berurutan. Ini menggunakan simbol-simbol grafis untuk menggambarkan alur logika dari suatu program atau prosedur. Flowchart membantu memvisualisasikan langkah-langkah yang diperlukan untuk menyelesaikan tugas atau mencapai tujuan tertentu.
+2. Disini saya **"Membuat Algoritma memasak mie instan bentuk Flow Chart"**
+![FLOWCHART ALGORITMA P MIE](https://github.com/rhrdianbaihaqi/UAS-PI/assets/144593465/aaa352ee-b4a1-4823-b225-3a334ccd779f)
 
 ## 7. Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 Untuk di penugasan Scratch Bahasa Indonesia saya membuat beberapa karya :
@@ -155,12 +160,9 @@ https://rahardianbaihaqi03.wordpress.com/2023/12/18/menggunakan-metode-asosiasi-
 
 ## 31. Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
 1. "**TEXT TO IMAGE**"
-The Disney Pixar poster that says "Haqi" shows a handsome boy wearing a black shirt and hat and sitting in a cafe
-![AI HAQI](https://github.com/rhrdianbaihaqi/UAS-PI/assets/144593465/b59d7aba-6134-4817-835e-2f6a31843b02)
-The Disney Pixar poster that says "Haqi" shows a handsome boy wearing batik and sitting in a mosque reading the quran
-![HAQI AI 2](https://github.com/rhrdianbaihaqi/UAS-PI/assets/144593465/d03ab61d-70b0-4765-b25e-28197f10eb21)
-
+![TEXT TO IMAGE](https://github.com/rhrdianbaihaqi/UAS-PI/assets/144593465/4edd1480-3ef4-48f0-90ab-050d3a73231f)
 2. "**TEXT TO TEXT**"
+![TEXT TO TEXT](https://github.com/rhrdianbaihaqi/UAS-PI/assets/144593465/a56adc31-550a-443b-b615-a9991c227ba6)
 
 ## 32. Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 
