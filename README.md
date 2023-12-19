@@ -139,7 +139,10 @@ https://rahardianbaihaqi03.wordpress.com/2023/12/18/menggunakan-metode-asosiasi-
 ## 34. Mencoba Data Visualization Dengan Code [v] ⭐⭐
 
 ## 35. Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
-Vidieo link YT Eksplorasi HuggingFace dan Membuat ilusi teks dengan HuggingFace : https://youtu.be/vtTXqk_ebbk
+1. **Tampilan Profile HuggingFace**
+   ![TAMPILAN HUGGINGFACE](https://github.com/rhrdianbaihaqi/UAS-PI/assets/144593465/af34b737-1ff3-4811-aebb-3d779a9026e5)
+
+2. Vidieo link YT Eksplorasi HuggingFace dan "**MEMBUAT ILUSI TEKS DENGAN HUGGINGFACE**" : https://youtu.be/vtTXqk_ebbk
 
 ## 36. Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
 1. **Tampilan Profile Kaggle**
