@@ -59,7 +59,12 @@ https://github.com/rhrdianbaihaqi/BubleSort.Java.git
 ## 9. Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 
 ## 10. Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
-Link Vidieo YT Eksplorasi dan Demonstrasi : https://youtu.be/zK518X2hQY0
+1. **Tampilan Profile HackerRank**
+   ![PROFILE HACKERRANK](https://github.com/rhrdianbaihaqi/UAS-PI/assets/144593465/5cc827df-74fc-4a14-b037-e614ebe4ce62)
+2. **Tampilan Beranda HackerRank**
+   ![TAMPILAN BERANDA](https://github.com/rhrdianbaihaqi/UAS-PI/assets/144593465/a8796a07-ec81-4349-9f13-91018cb4358f)
+
+3. **Link Vidieo YT Eksplorasi dan Demonstrasi** : https://youtu.be/zK518X2hQY0
 
 ## 11. Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 1. Demonstrasi Pembuatan Aplikasi Mobile "NukuKopi" : https://youtu.be/MEN2hpYgGLE
