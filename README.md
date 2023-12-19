@@ -36,8 +36,14 @@ https://github.com/rhrdianbaihaqi/UAS-PI/blob/6ba35a397213cf21ea1b413945b4ef59f5
 ## 4. Mencoba Console Sistem Operasi
 
 ### Windows CMD [v] ⭐⭐⭐⭐
+1. Windows CMD, atau Command Prompt adalah antarmuka baris perintah di sistem operasi Windows. Ini adalah program yang memungkinkan pengguna untuk berinteraksi dengan sistem operasi melalui perintah-perintah teks.
 
-Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
+2. Untuk Mencoba di Console Sistem Operasi Windows CMD ini saya membuat progam kalkulator sederhana di Notepad lalu saya running di CMD (Command Prompt)
+
+**Tampilan Codingan di Notepad**
+![cmd dan notepad](https://github.com/rhrdianbaihaqi/UAS-PI/assets/144593465/3229d6a9-86d8-499e-a2e0-d1567b6a6a52)
+**Tampilan Running di Windows CMD (Command Prompt)** 
+![cmd](https://github.com/rhrdianbaihaqi/UAS-PI/assets/144593465/e6d9634b-cc40-4f54-804c-d4c8373cc623)
 
 ### 5. Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 
