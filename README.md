@@ -272,6 +272,9 @@ Untuk Topik yang saya minati adalah sebagai :
 ## 49. Eksplorasi Top Github Project yang Diminati ⭐⭐ 
 
 ## 50. Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
+1. Linkedin profile milik saya pribadi dengan nama **Rahardian Baihaqi** www.linkedin.com/in/rahardianbaihaqi
+2. **List Akun-akun inspiratif Bertema Informatika :**
+Dicoding Indonesia, Shopee, Gojek, PT Tokopedia, Telkomsel, GitHub, Web Developer, Universitas Islam Negeri Bandung, Sayurbox, Ajaib, Google Indonesia
 
 ## 51. Membangun Profil Github Page ⭐⭐⭐⭐⭐
 Web Company Profile Github Page : https://rhrdianbaihaqi.github.io
