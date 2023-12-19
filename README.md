@@ -57,6 +57,23 @@ Referensi [1](https://scratch.mit.edu/)
 https://github.com/rhrdianbaihaqi/BubleSort.Java.git
 
 ## 9. Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
+Penggunaan IDE merupakan salah satu basic skill seorang programmer yang harusnya sudah berada diluar kepalanya. Karena IDE sendiri memiliki beberapa benefit besar yang dapat dimanfaatkan dan sangat membantu bagi seorang programmer yang mana pekerjaannya adalah menulis kode. IDEatau Integrated Development Environmentadalah suatu perangkat lunak yang menyediakan berbagai alat dan fitur untuk memudahkan pengembangan perangkat lunakIDE biasanya mencakup editor kode sumber, compiler atau interpreter, debugger, dan seringkali alat bantu lain seperti manajer proyekpengatur versi, dan pembuat antarmuka pengguna. IDE yang selama ini telah saya coba dan demonstrasikan yaitu:
+
+1. Android Studio
+2. Visual Studio Code 
+
+Demonstrasi:
+**Pemanfaatan IDE Android Studio (Sebagai pengelolaan Emulator, Konfigurasi Emulator, Menjalankan Aplikasi)**
+![ADROID STUDIO IDE](https://github.com/rhrdianbaihaqi/UAS-PI/assets/144593465/5169405f-bd15-4339-99b1-1c8009dfcaec)
+**Pemanfaatan IDE Android Studio sebagai emulator dengan React Native**
+![ANDROID STUDIO REACT NATIVE](https://github.com/rhrdianbaihaqi/UAS-PI/assets/144593465/0594a7d1-a0d1-4d27-92c7-d50880130e68)
+
+**Pemanfaatan IDE Visual Studio Code (Sebagai multifungsi text editor yang membantu dalam banyak project dan tugas-tugas)**
+**Tampilan VSCode dimana ini berfungsi mengerjakan tugas tugas mastkul DASPRO**
+![VSC IDE](https://github.com/rhrdianbaihaqi/UAS-PI/assets/144593465/b584cede-1d82-4506-b001-845444b79dec)
+![VSC IDE RUN](https://github.com/rhrdianbaihaqi/UAS-PI/assets/144593465/b695bd8c-a5bd-414a-b907-0ef4e3e1725c)
+
+
 
 ## 10. Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 1. **Tampilan Profile HackerRank**
