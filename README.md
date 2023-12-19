@@ -30,7 +30,7 @@ Menginternalisasi Computational Thinking:
 4. Komputer Tablet dan Smartphone: Mesin komputasi portabel yang menggabungkan elemen komputer dan layar sentuh. Tablet dan smartphone menjalankan berbagai aplikasi dan menyediakan akses internet secara portabel.
 5. Komputer Wearable: Mesin komputasi yang dikenakan atau digunakan pada tubuh pengguna. Ini termasuk perangkat seperti jam pintar, kacamata pintar, dan perangkat fitness yang dapat melakukan pemrosesan data dan memberikan informasi kepada pengguna.
 
-## 3. Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
+## 3. Mengkatifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
 https://github.com/rhrdianbaihaqi/UAS-PI/blob/6ba35a397213cf21ea1b413945b4ef59f55e7af0/Muhammad_Rahardian_Baihaqi_Google_Colab.ipynb
 
 ## 4. Mencoba Console Sistem Operasi
