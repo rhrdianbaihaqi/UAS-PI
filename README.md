@@ -131,11 +131,13 @@ https://rahardianbaihaqi03.wordpress.com/2023/12/18/menggunakan-metode-asosiasi-
 ## 30. Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
 
 ## 31. Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
-1. The Disney Pixar poster that says "Haqi" shows a handsome boy wearing a black shirt and hat and sitting in a cafe
+1. "**TEXT TO IMAGE**"
+The Disney Pixar poster that says "Haqi" shows a handsome boy wearing a black shirt and hat and sitting in a cafe
 ![AI HAQI](https://github.com/rhrdianbaihaqi/UAS-PI/assets/144593465/b59d7aba-6134-4817-835e-2f6a31843b02)
-
-2. The Disney Pixar poster that says "Haqi" shows a handsome boy wearing batik and sitting in a mosque reading the quran
+The Disney Pixar poster that says "Haqi" shows a handsome boy wearing batik and sitting in a mosque reading the quran
 ![HAQI AI 2](https://github.com/rhrdianbaihaqi/UAS-PI/assets/144593465/d03ab61d-70b0-4765-b25e-28197f10eb21)
+
+2. "**TEXT TO TEXT**"
 
 ## 32. Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 
@@ -159,6 +161,13 @@ https://rahardianbaihaqi03.wordpress.com/2023/12/18/menggunakan-metode-asosiasi-
    https://www.kaggle.com/rahardianbaihaqi/progam-sederhana-python-menggunakan-kaggle
 
 ## 37. Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
+Protokol komunikasi IoT MyMQTT adalah salah satu protokol yang digunakan dalam Internet of Things (IoT) untuk perangkat IoT satu sama lain. adalah protokol MQTT (Message Queuing Transport) yang protokol dan berbasis . maksudnya kita harus subscribe ke suatu channel yang ada di port yang telah agar dapat antar pernagkat satu sama lain Dalam konteks MyMQTT, perangkat IoT dapat berperan sebagai atau penerima pesan. Mereka dapat pesan ke topik tertentu atau berlangganan ke topik untuk pesan. Protokol ini untuk efisiensi, , dan dalam komunikasi antarperangkat loT. Jadi, secara umum, MyMQTT data yang efisien antarperangkat lot melalui model , di mana perangkat dapat mengirim dan menerima pesan pada tertentu.
+
+Penggunaan MyMQTT telah dilaksanakan di kelas matkul Pengenalarkinformatika, yang diinisiasi oleh pak Insan Al-Amin
+1. **Tampilan MyMQTT Broker**
+   ![MQTT](https://github.com/rhrdianbaihaqi/UAS-PI/assets/144593465/67617fe8-2ddd-4659-933c-2c44a122bd86)
+3. **Tampilan MyMQTT Dashboard**
+   ![MQTT1](https://github.com/rhrdianbaihaqi/UAS-PI/assets/144593465/fe9b5304-34ad-4ad2-93cd-6c81adff6927)
 
 ## 38. Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
 
