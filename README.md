@@ -88,7 +88,7 @@ Demonstrasi:
 
 ## 10. Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 1. **Tampilan Profile HackerRank**
-   ![PROFILE HACKERRANK](https://github.com/rhrdianbaihaqi/UAS-PI/assets/144593465/5cc827df-74fc-4a14-b037-e614ebe4ce62)
+   ![PROFILE HACKERRANK](https://github.com/rhrdianbaihaqi/UAS-PI/assets/144593465/69c9a73c-adc3-47a4-9947-efbc25bf4a77)
 2. **Tampilan Beranda HackerRank**
    ![TAMPILAN BERANDA](https://github.com/rhrdianbaihaqi/UAS-PI/assets/144593465/a8796a07-ec81-4349-9f13-91018cb4358f)
 
@@ -265,6 +265,8 @@ Bidang informatika memiliki berbagai profesi dengan spesialisasi yang berbeda-be
 untuk minat Profesi saya di Informatika saya lebih suka untuk menjadi Pengembang Front end Developer, Mobile Developer, dan UI/UX karena menurut saya ini adalah profesi yang sesuai dengan minat dan bakat saya, serta jika saya di Profesi ini saya harus mahir dan mendalami tentang bidang Progamming, Hardware, Design karena ini termasuk syarat untuk menjadi ke 3 Profesi tersebut.
 
 ## 44. Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
+Disini saya mengeksplorasi dengan mencoba berbagai latihan di Duolingo
+![DUOLINGO](https://github.com/rhrdianbaihaqi/UAS-PI/assets/144593465/3447847e-2fc6-4e85-bee9-a4ba95dc7313)
 
 ## 45. Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
 
