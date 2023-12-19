@@ -142,6 +142,13 @@ https://rahardianbaihaqi03.wordpress.com/2023/12/18/menggunakan-metode-asosiasi-
 Vidieo link YT Eksplorasi HuggingFace dan Membuat ilusi teks dengan HuggingFace : https://youtu.be/vtTXqk_ebbk
 
 ## 36. Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
+1. **Tampilan Profile Kaggle**
+   ![TAMPILAN PROFILE KAGGLE](https://github.com/rhrdianbaihaqi/UAS-PI/assets/144593465/63322bad-cb62-4dd2-ae5d-95f771ad32d3)
+2. **Tampilan Beranda Kaggle**
+   ![TAMPILAN HOME KAGGLE](https://github.com/rhrdianbaihaqi/UAS-PI/assets/144593465/a7fa6ff4-fe54-4390-b457-f85953948b44)
+
+3. Disini saya mengekspolasi dengan mencoba membuat "**PROGAM SEDERHANA PYTHON DENGAN MENGGUNAKAN KAGGLE**"
+   https://www.kaggle.com/rahardianbaihaqi/progam-sederhana-python-menggunakan-kaggle
 
 ## 37. Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
 
