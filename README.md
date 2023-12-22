@@ -1,4 +1,4 @@
-[package.json](https://github.com/rhrdianbaihaqi/UAS-PI/files/13756222/package.json)# Hello Informatics ! 1237050023_Muhammad Rahardian Baihaqi
+# Hello Informatics ! 1237050023_Muhammad Rahardian Baihaqi
 
 ## 1. Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
 Computational Thinking (Pemikiran Komputasional): Computational Thinking adalah suatu pendekatan pemecahan masalah dan penyelesaian tugas yang mengintegrasikan elemen-elemen yang terkait dengan konsep komputasional. Konsep ini tidak hanya berfokus pada aspek teknis seperti menulis kode, tetapi juga pada pemahaman konsep dasar komputasi dan penerapannya dalam menyelesaikan masalah.
@@ -134,6 +134,8 @@ Referensi []
 1. Saya disini mencoba membuat file json sederhana dengan menggunakan compiler Vscode dengan memberikan git bash here dengan menjalankan perintah pertama yaitu dengan mengetik **"npm init"** pada tampilan git bash atau juga bisa dalam terminal Vscode.
 2. **Tampilan file JSON**
 ![PACKAGE JSON](https://github.com/rhrdianbaihaqi/UAS-PI/assets/144593465/ae465d3d-6cd2-4b2a-8c80-e6dd413f6556)
+3. **Hasil File JSON**
+[package.json](https://github.com/rhrdianbaihaqi/UAS-PI/files/13756222/package.json)
 
 ## 20. Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 
