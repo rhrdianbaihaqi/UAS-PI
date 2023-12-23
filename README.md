@@ -84,8 +84,6 @@ Demonstrasi:
 ![VSC IDE](https://github.com/rhrdianbaihaqi/UAS-PI/assets/144593465/b584cede-1d82-4506-b001-845444b79dec)
 ![VSC IDE RUN](https://github.com/rhrdianbaihaqi/UAS-PI/assets/144593465/b695bd8c-a5bd-414a-b907-0ef4e3e1725c)
 
-
-
 ## 10. Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 1. **Tampilan Profile HackerRank**
    ![PROFILE HACKERRANK](https://github.com/rhrdianbaihaqi/UAS-PI/assets/144593465/69c9a73c-adc3-47a4-9947-efbc25bf4a77)
@@ -104,9 +102,8 @@ Referensi installer [PostgreSQL](https://www.postgresql.org/download/windows/)
 Referensi tambahan [1](https://db-engines.com/en/ranking)
 
 ## 13. Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
-
-Referensi installer [Dbeaver](https://dbeaver.io/download/)
-Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
+Disini saya mencoba Eksplorasi Database Dbeaver dengan mencoba untuk menampikan sebuah inputan mahasiswa
+![Dbeaver](https://github.com/rhrdianbaihaqi/UAS-PI/assets/144593465/0a0b72bd-99f2-4d61-93c2-ac08c5d6cdb7)
 
 ## 14. Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
 - Dokumen HyperText Markup Language (HTML) ada untuk memudahkan pertukaran informasi berbasis Hypertext.
@@ -285,7 +282,15 @@ Untuk Topik yang saya minati adalah sebagai :
 1. Frontend Developer : [Road Map frontend.pdf](https://github.com/rhrdianbaihaqi/UAS-PI/files/13704495/Road.Map.frontend.pdf)
 2. Android Developer  : [Road Map android Developer.pdf](https://github.com/rhrdianbaihaqi/UAS-PI/files/13704535/Road.Map.android.Developer.pdf)
 
-## 49. Eksplorasi Top Github Project yang Diminati ⭐⭐ 
+## 49. Eksplorasi Top Github Project yang Diminati ⭐⭐
+1. Top Github yang saya minati adalah Pak SandikaGalih dimana saya menyukainya karena memberikan tutorial yang mudah dipahami serta saat memberikan informasi tentang IT cukup detail, dan dia juga merupakan seorang web development yang dimana bidang itu merupakan bidang yang saya sukai.
+**Tampilan Github SandikaGalih**
+![SANDIKA GALIH](https://github.com/rhrdianbaihaqi/UAS-PI/assets/144593465/8754db18-397d-476d-911c-263e522e15b9)
+
+2. Top Github yang saya minati adalah Kang Dea Afrizal dimana saya menyukainya karena dia tidak hanya memberikan seputar tutorial coding atau seputar ngoding bahkan dia juga share IT dibidang yang lain seperti di bidang kerja dan bahkan juga seperti di bidang perusahaan, untuk pengenalan informatika saya rasa untuk melihat kang Dea Afrizal sudah lumayan cukup bisa mencakup apa dalamnya informatika.
+**Tampilan Github DeaAfrizal**
+![DEA AFRIZAL](https://github.com/rhrdianbaihaqi/UAS-PI/assets/144593465/1c6ac043-bb96-44d6-b1f6-7a573d0f7cb4)
+
 
 ## 50. Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 1. Linkedin profile milik saya pribadi dengan nama **Rahardian Baihaqi** www.linkedin.com/in/rahardianbaihaqi
@@ -293,7 +298,10 @@ Untuk Topik yang saya minati adalah sebagai :
 Dicoding Indonesia, Shopee, Gojek, PT Tokopedia, Telkomsel, GitHub, Web Developer, Universitas Islam Negeri Bandung, Sayurbox, Ajaib, Google Indonesia
 
 ## 51. Membangun Profil Github Page ⭐⭐⭐⭐⭐
-Web Company Profile Github Page : https://rhrdianbaihaqi.github.io
+1. Tampilan Profil Github Page
+![PROFIL GITHUB](https://github.com/rhrdianbaihaqi/UAS-PI/assets/144593465/9509c8fa-934b-4762-8af5-4308d6ee10ed)
+2. link Github Profile : https://github.com/rhrdianbaihaqi/rhrdianbaihaqi.git
+3. Web Company Profile Github Page : https://rhrdianbaihaqi.github.io
 
 ## 52. Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 Berikut adalah beberapa Workshop yang pernah saya ikuti, terutama untuk di bidang IT 
