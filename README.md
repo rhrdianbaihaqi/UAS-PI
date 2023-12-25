@@ -274,8 +274,27 @@ Disini saya mengeksplorasi dengan mencoba berbagai latihan di Duolingo
 ## 45. Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
 
 ## 46. Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
+Untuk EKsplorasi lowongan Pekerjaan IT
+1. **Glints**
+![PROFIL](https://github.com/rhrdianbaihaqi/UAS-PI/assets/144593465/fd26aaad-bbef-4aa2-8f11-b9458bd57f14)
+![LOKER6](https://github.com/rhrdianbaihaqi/UAS-PI/assets/144593465/1e01f1e7-3990-4e6e-bb2a-2278bb362252)
+![LOKER7](https://github.com/rhrdianbaihaqi/UAS-PI/assets/144593465/7cc2b936-e12f-446d-a8be-1a1fa5bca94a)
+2. **Jobstreet**
+![PROFIL JOBSTRET](https://github.com/rhrdianbaihaqi/UAS-PI/assets/144593465/9524dcd7-6e2a-4846-99d1-009623d9673e)
+![LOKER2](https://github.com/rhrdianbaihaqi/UAS-PI/assets/144593465/90358898-6609-4e7d-858b-e593effd4312)
+![LOKER3](https://github.com/rhrdianbaihaqi/UAS-PI/assets/144593465/6a16046d-0deb-4dd1-ab5a-0fcf2164b667)
+![LOKER4](https://github.com/rhrdianbaihaqi/UAS-PI/assets/144593465/fecc9f67-1ffc-4153-bf0b-7ba905cfd0e7)
 
 ## 47. Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
+
+Menurut saya freelance mungki lebih cocok dengan keadaan mahasiswa sekarang yang tidak dapat melaksanakan fulltime job karena kesibukan masing-masing freelance rata-rata yang dapat dilakukan secara oremote,part time, dan dibayar perproject yang kita kerjakan dan juga ad ajuga seperti perjam instead of bekerja 9-5 dan digaji di akhir bulan. namun di freelance ini memliki tantangan yang terbesarnya yaitu mencari client dan memuaskan client dari hasil kita kerja.
+
+website freelance Fiver, Freelancer.co.id, Project.id, wesibte-website jual foto seperti shutterstock, istock, freepik premium, envarto, elements.
+1. **Eksplorasi Fiver**
+![Screenshot (59)](https://github.com/rhrdianbaihaqi/UAS-PI/assets/144593465/110dcde8-57ae-4e7e-a18a-67a532c9d709)
+![Screenshot (60)](https://github.com/rhrdianbaihaqi/UAS-PI/assets/144593465/5e12f572-134a-4b2e-9ef4-de9418a4f0f0)
+2. **Freelancer.co.id**
+![Screenshot (61)](https://github.com/rhrdianbaihaqi/UAS-PI/assets/144593465/42f2fb56-a801-4859-8694-734124c2edac)
 
 ## 48. Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
 Untuk Topik yang saya minati adalah sebagai :
