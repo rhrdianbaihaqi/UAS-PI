@@ -62,8 +62,6 @@ Untuk di penugasan Scratch Bahasa Indonesia saya membuat beberapa karya :
 2. Game Sederhana Cat Jump Game              : https://scratch.mit.edu/projects/941313179
 Link Vidieo Yt : https://youtu.be/K04weNoMk-Y
 
-Referensi [1](https://scratch.mit.edu/)
-
 ## 8. Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 https://github.com/rhrdianbaihaqi/BubleSort.Java.git
 
@@ -97,9 +95,9 @@ Demonstrasi:
 2. Demonstrasi Pembuatan Web "Company Profile"      : https://youtu.be/KSNk7KErSE4
 
 ## 12. Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
-
-Referensi installer [PostgreSQL](https://www.postgresql.org/download/windows/)
-Referensi tambahan [1](https://db-engines.com/en/ranking)
+1. Link youtube Instalasi Database MySQL : https://youtu.be/3ozSxvY5_n0
+2. Tampilan Instalasi Database MySQL
+![DATABASE MYSQL](https://github.com/rhrdianbaihaqi/UAS-PI/assets/144593465/6304811f-a9b5-476a-9d30-3a0cd6609537)
 
 ## 13. Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
 Disini saya mencoba Eksplorasi Database Dbeaver dengan mencoba untuk menampikan sebuah inputan mahasiswa
@@ -111,8 +109,7 @@ Disini saya mencoba Eksplorasi Database Dbeaver dengan mencoba untuk menampikan 
 - Dokumen HTML ini bisa bersumber dari web server yang kita ingin datanya (Tokopedia, Wikipedia, Detik.com, dsb.) atau bisa juga dukumen HTML yang kita buat sendiri
 
 ## 15. Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
-
-Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.html)
+Link youtube Mendemonstrasikan dan menjelaskan komponen URL : https://youtu.be/hWLYkalXGpc
 
 ## 16. Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
 ![Alamat Domain](https://github.com/rhrdianbaihaqi/UAS-PI/assets/144593465/89f96127-e55b-4ad4-8187-fa9b19f3da37)
@@ -124,8 +121,7 @@ Saya mencoba melakukan pelacakan dengan terminal Windows Powershell dengan mengg
 2. Link untuk akses Rumah Impian : https://rhrdianbaihaqi.github.io/
 
 ## 18. Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
-
-Referensi []
+Link youtube penerapan SEO pada HTML : https://youtu.be/Wnqa3bDTJqU
 
 ## 19. Mencoba Pembuatan File JSON [v] ⭐⭐⭐
 1. Saya disini mencoba membuat file json sederhana dengan menggunakan compiler Vscode dengan memberikan git bash here dengan menjalankan perintah pertama yaitu dengan mengetik **"npm init"** pada tampilan git bash atau juga bisa dalam terminal Vscode.
@@ -228,6 +224,7 @@ Pemeringkatan ini dapat digunakan sebagai panduan untuk menilai kualitas atau ti
 Peringkat ini dapat dikeluarkan oleh lembaga-lembaga seperti Clarivate Analytics (faktor dampak), Scimago Journal Rank (SJR), atau lembaga penilai jurnal ilmiah lainnya.
 
 ## 41. Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
+Link youtube Eksplorasi Artikel Jurnal : https://youtu.be/Rx4hJ0CjlSQ
 
 ## 42. Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 1. Link Vidieo Pertama : https://youtu.be/Gyh_fxPmXKM?si=ISrh9sx8f48IdHnQ
@@ -272,6 +269,7 @@ Disini saya mengeksplorasi dengan mencoba berbagai latihan di Duolingo
 ![DUOLINGO](https://github.com/rhrdianbaihaqi/UAS-PI/assets/144593465/3447847e-2fc6-4e85-bee9-a4ba95dc7313)
 
 ## 45. Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
+
 
 ## 46. Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
 Untuk EKsplorasi lowongan Pekerjaan IT
