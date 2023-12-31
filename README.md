@@ -165,9 +165,16 @@ https://rahardianbaihaqi03.wordpress.com/2023/12/18/menggunakan-metode-asosiasi-
 
 ## 32. Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 
+
 ## 33. Mencoba Data Visualization Dengan Tools [v] ⭐⭐
+1. Link Youtube Visualization dengan Tools : https://youtu.be/tvWsjDiD5fw
+2. Tampilan Mencoba Visualization dengan tools
+![DATA VISUALIZATION TOOLS](https://github.com/rhrdianbaihaqi/TugasUAS-PI/assets/144593465/d0ffdd0d-8ef6-44fb-ae67-59de627e388f)
 
 ## 34. Mencoba Data Visualization Dengan Code [v] ⭐⭐
+1. Link Youtube Visualization dengan Code : https://youtu.be/1qVXNj66uQ0
+2. Tampilan Mencoba Visualization dengan code
+![TAMPILAN CODE](https://github.com/rhrdianbaihaqi/TugasUAS-PI/assets/144593465/d1930e9e-c407-4c98-b522-383f2d7b10c6)
 
 ## 35. Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
 1. **Tampilan Profile HuggingFace**
@@ -329,8 +336,3 @@ Berikut adalah beberapa Workshop yang pernah saya ikuti, terutama untuk di bidan
 ![WORKSHOP WEBSITE PORTO PEMULA](https://github.com/rhrdianbaihaqi/UAS-PI/assets/144593465/ed014c1f-4308-49c4-8a96-69a1aeae14cc)
 
 ## 53. Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
-
-
-
-
-
