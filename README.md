@@ -95,7 +95,7 @@ Demonstrasi:
 2. Demonstrasi Pembuatan Web "Company Profile"      : https://youtu.be/KSNk7KErSE4
 
 ## 12. Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
-1. Link youtube Instalasi Database MySQL : https://youtu.be/3ozSxvY5_n0
+1. **Link youtube Instalasi Database MySQL :**  https://youtu.be/3ozSxvY5_n0
 2. Tampilan Instalasi Database MySQL
 ![DATABASE MYSQL](https://github.com/rhrdianbaihaqi/UAS-PI/assets/144593465/6304811f-a9b5-476a-9d30-3a0cd6609537)
 
@@ -104,12 +104,10 @@ Disini saya mencoba Eksplorasi Database Dbeaver dengan mencoba untuk menampikan 
 ![Dbeaver](https://github.com/rhrdianbaihaqi/UAS-PI/assets/144593465/0a0b72bd-99f2-4d61-93c2-ac08c5d6cdb7)
 
 ## 14. Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
-- Dokumen HyperText Markup Language (HTML) ada untuk memudahkan pertukaran informasi berbasis Hypertext.
-- Web Browser seperti Firefox, Chrome, Opera, ada untuk membuka dan mempresentasikan dokumen HTML
-- Dokumen HTML ini bisa bersumber dari web server yang kita ingin datanya (Tokopedia, Wikipedia, Detik.com, dsb.) atau bisa juga dukumen HTML yang kita buat sendiri
+**Link Youtube Mendemonstrasikan dan menjelaskan :** https://youtu.be/ADhpODigHYE
 
 ## 15. Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
-Link youtube Mendemonstrasikan dan menjelaskan komponen URL : https://youtu.be/hWLYkalXGpc
+**Link youtube Mendemonstrasikan dan menjelaskan komponen URL :** https://youtu.be/hWLYkalXGpc
 
 ## 16. Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
 ![Alamat Domain](https://github.com/rhrdianbaihaqi/UAS-PI/assets/144593465/89f96127-e55b-4ad4-8187-fa9b19f3da37)
@@ -156,6 +154,7 @@ https://rahardianbaihaqi03.wordpress.com/2023/12/18/menggunakan-metode-asosiasi-
 ## 29. Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
 
 ## 30. Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
+**Link Youtube Mencoba web Tool AI Discriminative :** https://youtu.be/jZLhV9X8w48
 
 ## 31. Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
 1. "**TEXT TO IMAGE**"
@@ -164,7 +163,7 @@ https://rahardianbaihaqi03.wordpress.com/2023/12/18/menggunakan-metode-asosiasi-
 ![TEXT TO TEXT](https://github.com/rhrdianbaihaqi/UAS-PI/assets/144593465/a56adc31-550a-443b-b615-a9991c227ba6)
 
 ## 32. Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
-
+**Link Youtube Mencoba Model Machine Learning :** https://youtu.be/fI9SZbTpTn4
 
 ## 33. Mencoba Data Visualization Dengan Tools [v] ⭐⭐
 1. Link Youtube Visualization dengan Tools : https://youtu.be/tvWsjDiD5fw
@@ -201,8 +200,10 @@ Penggunaan MyMQTT telah dilaksanakan di kelas matkul Pengenalarkinformatika, yan
    ![MQTT1](https://github.com/rhrdianbaihaqi/UAS-PI/assets/144593465/fe9b5304-34ad-4ad2-93cd-6c81adff6927)
 
 ## 38. Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
+**Link Youtube Memproses File CSV :** https://youtu.be/ZHdx21N-jD8
 
 ## 39. Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
+**Link Youtube Memproses File Big Data ORC:** https://youtu.be/SYPem_7cx10
 
 ## 40. Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
 1. Jurnal Ilmiah (Journal):
