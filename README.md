@@ -119,7 +119,7 @@ Saya mencoba melakukan pelacakan dengan terminal Windows Powershell dengan mengg
 2. Link untuk akses Rumah Impian : https://rhrdianbaihaqi.github.io/
 
 ## 18. Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
-Link youtube penerapan SEO pada HTML : https://youtu.be/Wnqa3bDTJqU
+**Link youtube penerapan SEO pada HTML :** https://youtu.be/Wnqa3bDTJqU
 
 ## 19. Mencoba Pembuatan File JSON [v] ⭐⭐⭐
 1. Saya disini mencoba membuat file json sederhana dengan menggunakan compiler Vscode dengan memberikan git bash here dengan menjalankan perintah pertama yaitu dengan mengetik **"npm init"** pada tampilan git bash atau juga bisa dalam terminal Vscode.
@@ -133,8 +133,10 @@ Link youtube penerapan SEO pada HTML : https://youtu.be/Wnqa3bDTJqU
 ## 21. Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
 
 ## 22. Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
+**Link Youtube Mencoba HTTP dan Web API dengan Potsman :** https://youtu.be/1dCc0F68IVs
 
 ## 23. Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
+**Link Youtube Demonstrasi Penggunaan Developer Tools Chrome :** https://youtu.be/9A-dPH_dQJU
 
 ## 24. Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
 Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram, Telkom memanfaatkan Cloud Service karena memudahkan untuk mulai pembangunan dan analisis menggunakan infrastruktur digital yang dapat berkembang secara dinamis dengan tarif yang sangat teliti.
@@ -150,8 +152,10 @@ https://rahardianbaihaqi03.wordpress.com/2023/12/18/menggunakan-metode-asosiasi-
 ## 27. Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
 
 ## 28. Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
+**Link Youtube Pembuatan Game dan Simulasi :** https://youtu.be/R89WNqTVjJ8
 
 ## 29. Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
+**Link Youtube Mencoba Pemrosesan Konten Multimedia :** https://youtu.be/NmB5mAvOato
 
 ## 30. Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
 **Link Youtube Mencoba web Tool AI Discriminative :** https://youtu.be/jZLhV9X8w48
