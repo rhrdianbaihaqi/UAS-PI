@@ -119,19 +119,26 @@ Saya mencoba melakukan pelacakan dengan terminal Windows Powershell dengan mengg
 **Link Youtube Demonstrasi Penggunaan Developer Tools Chrome :** https://youtu.be/9A-dPH_dQJU
 
 ## 24. Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
-Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram, Telkom memanfaatkan Cloud Service karena memudahkan untuk mulai pembangunan dan analisis menggunakan infrastruktur digital yang dapat berkembang secara dinamis dengan tarif yang sangat teliti.
+**Menjelaskan Layanan Cloud Service :** https://rahardianbaihaqi03.wordpress.com/2024/01/02/apa-itu-layanan-cloud-service-gcp-aws-azure/
 
 Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsoft Azure](https://azure.microsoft.com) [Google Cloud Platform](https://cloud.google.com) 
 
 ## 25. Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
-1. **Link Youtube Penggunaan Wordpress :** https://youtu.be/uAMmvuSl3NM
+1. **Link Youtube Penggunaan Wordpress :** https://youtu.be/PyeGz2QdwvU
 2. Wordpress ini saya membuat situs yang bernama "Menggunakan Metode Asosiasi untuk Menghafal Al-Quran dengan Kreativitas" https://rahardianbaihaqi03.wordpress.com/2023/12/18/menggunakan-metode-asosiasi-untuk-menghafal-al-quran-dengan-kreativitas/
 3. Wordpress ini saya membuat situs yang bernama "Tentang Computational Thinking"
 https://rahardianbaihaqi03.wordpress.com/2024/01/02/apa-itu-computational-thinking/
 
 ## 26. Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
 
+
 ## 27. Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
+1. Edit Image Menggunakan Canva :
+![image](https://github.com/rhrdianbaihaqi/UAS-PI/assets/144593465/f4d396a2-c681-4c69-8b8c-d06a9b9a3607)
+2. Edit Vidieo Menggunakan Capcut :
+![WhatsApp Image 2024-01-02 at 21 30 40_14880573](https://github.com/rhrdianbaihaqi/UAS-PI/assets/144593465/802447b0-67fe-4f3c-9730-54c72ebe02ba)
+3. Edit Audio Menggunakan Google Colab :
+![image](https://github.com/rhrdianbaihaqi/UAS-PI/assets/144593465/d6e20f4c-d787-4e2e-94e7-6dcff260b1ec)
 
 ## 28. Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
 **Link Youtube Pembuatan Game dan Simulasi :** https://youtu.be/R89WNqTVjJ8
