@@ -130,7 +130,9 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 https://rahardianbaihaqi03.wordpress.com/2024/01/02/apa-itu-computational-thinking/
 
 ## 26. Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
-
+![image](https://github.com/rhrdianbaihaqi/UAS-PI/assets/144593465/3984259e-0bd7-4cee-bd14-3d052c9edb63)
+![image](https://github.com/rhrdianbaihaqi/UAS-PI/assets/144593465/0d4d2138-472c-4420-adca-882cb8f5990e)
+![image](https://github.com/rhrdianbaihaqi/UAS-PI/assets/144593465/572d11db-5e6f-4ac7-b980-b7aada63a79c)
 
 ## 27. Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
 1. Edit Image Menggunakan Canva :
@@ -270,7 +272,7 @@ Disini saya mengeksplorasi dengan mencoba berbagai latihan di Duolingo
 ![DUOLINGO](https://github.com/rhrdianbaihaqi/UAS-PI/assets/144593465/3447847e-2fc6-4e85-bee9-a4ba95dc7313)
 
 ## 45. Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
-
+Link Youtube Eksplorasi Tools HelloTalk : https://youtu.be/Zv4E7TS3q1M
 
 ## 46. Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
 Untuk EKsplorasi lowongan Pekerjaan IT
@@ -309,7 +311,6 @@ Untuk Topik yang saya minati adalah sebagai :
 **Tampilan Github DeaAfrizal**
 ![DEA AFRIZAL](https://github.com/rhrdianbaihaqi/UAS-PI/assets/144593465/1c6ac043-bb96-44d6-b1f6-7a573d0f7cb4)
 
-
 ## 50. Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 1. Linkedin profile milik saya pribadi dengan nama **Rahardian Baihaqi** www.linkedin.com/in/rahardianbaihaqi
 2. **List Akun-akun inspiratif Bertema Informatika :**
@@ -330,3 +331,4 @@ Berikut adalah beberapa Workshop yang pernah saya ikuti, terutama untuk di bidan
 ![WORKSHOP WEBSITE PORTO PEMULA](https://github.com/rhrdianbaihaqi/UAS-PI/assets/144593465/ed014c1f-4308-49c4-8a96-69a1aeae14cc)
 
 ## 53. Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
+https://repository.penerbiteureka.com/media/publications/558593-modul-belajar-informatika-9ade9804.pdf
