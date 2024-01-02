@@ -1,28 +1,7 @@
 # Hello Informatics ! 1237050023_Muhammad Rahardian Baihaqi
 
 ## 1. Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
-Computational Thinking (Pemikiran Komputasional): Computational Thinking adalah suatu pendekatan pemecahan masalah dan penyelesaian tugas yang mengintegrasikan elemen-elemen yang terkait dengan konsep komputasional. Konsep ini tidak hanya berfokus pada aspek teknis seperti menulis kode, tetapi juga pada pemahaman konsep dasar komputasi dan penerapannya dalam menyelesaikan masalah.
-
-Elemen-Elemen Utama Computational Thinking:
-1. Decomposition (Dekomposisi): Pemecahan masalah kompleks dengan membaginya menjadi masalah-masalah yang lebih kecil. Hal ini membantu dalam menangani masalah secara lebih terkelola.
-Pattern Recognition (Pengenalan Pola): Identifikasi dan pemahaman pola atau tren dalam data. Hal ini membantu dalam pengembangan model konseptual yang lebih baik.
-2. Abstraction (Abstraksi): Mengidentifikasi dan mengisolasi detail-detail yang tidak relevan sehingga fokus dapat dipusatkan pada aspek-aspek penting. Abstraksi membantu dalam menyederhanakan pemahaman.
-3. Algorithm Design (Perancangan Algoritma): Pengembangan langkah-langkah atau prosedur-prosedur logis untuk menyelesaikan masalah atau mencapai tujuan tertentu. Algoritma menjadi resep atau panduan untuk menyelesaikan masalah.
-   
-Penerapan Computational Thinking:
-1. Pemecahan Masalah: Penerapan langkah-langkah dekomposisi untuk merinci masalah kompleks menjadi tugas-tugas yang lebih kecil dan lebih mudah diatasi.
-2. Pengembangan Model: Menggunakan pengenalan pola untuk mengidentifikasi kesamaan atau hubungan antar elemen, membantu dalam pengembangan model konseptual yang lebih baik.
-3. Pemrograman: Menerjemahkan pemahaman masalah dan solusinya ke dalam bentuk kode komputer. Kemampuan dalam merancang algoritma dan menggunakan bahasa pemrograman adalah bagian dari penerapan Computational Thinking.
-4. Analisis Data: Menggunakan pemahaman komputasional untuk menganalisis dan menginterpretasikan data. Ini melibatkan penggunaan algoritma dan pengenalan pola untuk mengambil wawasan dari data.
-5. Pengembangan Solusi Inovatif: Menggunakan pendekatan komputasional untuk merancang solusi inovatif bagi berbagai masalah di berbagai bidang.
-
-Menginternalisasi Computational Thinking:
-1. Pemahaman Konsep Dasar Komputasi: Memahami prinsip-prinsip dasar komputasi, seperti dekomposisi, pola, abstraksi, dan algoritma.
-2. Penerapan dalam Konteks Nyata: Menggunakan pemikiran komputasional untuk menyelesaikan masalah nyata dalam berbagai konteks, termasuk bidang ilmu yang tidak langsung terkait dengan komputer.
-3. Pemecahan Masalah Terstruktur: Menginternalisasi pendekatan terstruktur dalam pemecahan masalah, memecahnya menjadi tahapan-tahapan logis.
-4. Penggunaan dalam Pengambilan Keputusan: Menerapkan pemikiran komputasional dalam pengambilan keputusan, baik dalam menentukan solusi terbaik atau merancang model untuk mencapai tujuan.
-5. Kreativitas dan Inovasi: Menggunakan pemikiran komputasional untuk merangsang kreativitas dan inovasi dalam pendekatan terhadap masalah.
-
+**Menjalaskan dan Menginternalisasi Computational Thinking dengan Wordpress :** https://rahardianbaihaqi03.wordpress.com/2024/01/02/apa-itu-computational-thinking/
 ## 2. Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
 1. Komputer Pribadi (Personal Computer - PC) : Merupakan jenis mesin komputasi yang dirancang untuk digunakan oleh satu individu. PC umumnya mencakup desktop dan laptop, dan berjalan di berbagai sistem operasi seperti Windows, macOS, dan Linux.
 2. Server : Server: Mesin komputasi yang dirancang untuk menyediakan layanan, sumber daya, atau aplikasi kepada pengguna atau komputer klien. Server dapat dikhususkan untuk tugas tertentu, seperti server web, server database, atau server file.
@@ -129,8 +108,9 @@ Saya mencoba melakukan pelacakan dengan terminal Windows Powershell dengan mengg
 [package.json](https://github.com/rhrdianbaihaqi/UAS-PI/files/13756222/package.json)
 
 ## 20. Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
-
+**Link Youtube Mencoba Penggunaan Web Hosting Dengan Web Servise :** https://youtu.be/Qmc_T8pDcHc
 ## 21. Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
+**Link Youtube Mencoba Penggunaan Web Hosting Dengan Web Servise :** https://youtu.be/uAMmvuSl3NM
 
 ## 22. Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
 **Link Youtube Mencoba HTTP dan Web API dengan Potsman :** https://youtu.be/1dCc0F68IVs
@@ -144,8 +124,10 @@ Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram,
 Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsoft Azure](https://azure.microsoft.com) [Google Cloud Platform](https://cloud.google.com) 
 
 ## 25. Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
-Wordpress ini saya membuat situs yang bernama "Menggunakan Metode Asosiasi untuk Menghafal Al-Quran dengan Kreativitas"
-https://rahardianbaihaqi03.wordpress.com/2023/12/18/menggunakan-metode-asosiasi-untuk-menghafal-al-quran-dengan-kreativitas/
+1. **Link Youtube Penggunaan Wordpress :** https://youtu.be/uAMmvuSl3NM
+2. Wordpress ini saya membuat situs yang bernama "Menggunakan Metode Asosiasi untuk Menghafal Al-Quran dengan Kreativitas" https://rahardianbaihaqi03.wordpress.com/2023/12/18/menggunakan-metode-asosiasi-untuk-menghafal-al-quran-dengan-kreativitas/
+3. Wordpress ini saya membuat situs yang bernama "Tentang Computational Thinking"
+https://rahardianbaihaqi03.wordpress.com/2024/01/02/apa-itu-computational-thinking/
 
 ## 26. Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
 
